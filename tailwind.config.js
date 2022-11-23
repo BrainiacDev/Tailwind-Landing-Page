@@ -18,7 +18,12 @@ module.exports = {
         verydarkBlue: 'hsl(223, 12%, 13%)',
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)'
-      }
+      },
+        width: {
+          '1/7': '23%',
+          '2/7': '30%',
+          '3/7': '48%',
+        }
     },
   },
   plugins: [],
